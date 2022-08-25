@@ -1,0 +1,5 @@
+branch_office_id=42
+cashier_id=601
+dte_code=76063822
+description=Pago de Estacionamiento - Tottus Catedral
+folio_quantity=2

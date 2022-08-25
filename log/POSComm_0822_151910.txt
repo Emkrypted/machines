@@ -1,0 +1,4 @@
+08-22 15:19:11.440--OnResponseDataReceived--Connect host : localhost on Port No. 5502
+08-22 15:19:11.455--SendClientDataToEPos--@**@1	0	1	1	76063822*@@*
+08-22 15:19:11.471--OnResponseDataReceived--0	OK
+08-22 15:27:19.273--OnResponseDataReceived--e-Pos Server disconnected.

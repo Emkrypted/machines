@@ -1,0 +1,1192 @@
+08-22 16:16:41.966--Read--Receive Data:05
+08-22 16:16:41.966--TimerStart_T6--T6 START
+08-22 16:16:41.982--TimerStop_T6()--T6 Stop = 18
+08-22 16:16:41.982--Write--Send Data:10-30
+08-22 16:16:41.982--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:16:41.997--TimerStart_T3--T3 START
+08-22 16:16:41.997--Read--Receive Data:02-30-36-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3E
+08-22 16:16:41.997--TimerStart_T6--T6 START
+08-22 16:16:41.997--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:42.013--TimerStop_T3()--T3 Stop = 10
+08-22 16:16:42.013--Write--Send Data:10-31
+08-22 16:16:42.013--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:16:42.013--TimerStart_T3--T3 START
+08-22 16:16:42.013--Read--Receive Data:04
+08-22 16:16:42.107--TimerStart_T6--T6 START
+08-22 16:16:42.107--TimerStop_T6()--T6 Stop = 1
+08-22 16:16:42.138--TimerStop_T3()--T3 Stop = 10
+08-22 16:16:42.138--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:16:42.138--Write--Send Data:05
+08-22 16:16:42.154--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:16:42.154--TimerStart_T3--T3 START
+08-22 16:16:42.154--Read--Receive Data:10-30
+08-22 16:16:42.669--TimerStart_T6--T6 START
+08-22 16:16:43.185--TimerStop_T6()--T6 Stop = 1
+08-22 16:16:43.700--TimerStop_T3()--T3 Stop = 20
+08-22 16:16:44.216--Write--Send Data:02-30-30-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-34
+08-22 16:16:44.732--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:16:45.247--TimerStart_T3--T3 START
+08-22 16:16:45.763--Read--Receive Data:10-31
+08-22 16:16:46.278--TimerStart_T6--T6 START
+08-22 16:16:46.794--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:47.310--TimerStop_T3()--T3 Stop = 13
+08-22 16:16:47.825--Write--Send Data:04
+08-22 16:16:48.341--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:16:52.012--Read--Receive Data:05
+08-22 16:16:52.012--TimerStart_T6--T6 START
+08-22 16:16:52.012--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:52.028--Write--Send Data:10-30
+08-22 16:16:52.028--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:16:52.028--TimerStart_T3--T3 START
+08-22 16:16:52.044--Read--Receive Data:02-30-37-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3F
+08-22 16:16:52.044--TimerStart_T6--T6 START
+08-22 16:16:52.044--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:52.122--TimerStop_T3()--T3 Stop = 14
+08-22 16:16:52.122--Write--Send Data:10-31
+08-22 16:16:52.137--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:16:52.137--TimerStart_T3--T3 START
+08-22 16:16:52.137--Read--Receive Data:04
+08-22 16:16:52.137--TimerStart_T6--T6 START
+08-22 16:16:52.169--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:52.169--TimerStop_T3()--T3 Stop = 14
+08-22 16:16:52.169--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:16:52.684--Write--Send Data:05
+08-22 16:16:53.200--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:16:53.715--TimerStart_T3--T3 START
+08-22 16:16:54.231--Read--Receive Data:10-30
+08-22 16:16:54.747--TimerStart_T6--T6 START
+08-22 16:16:55.309--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:55.825--TimerStop_T3()--T3 Stop = 15
+08-22 16:16:56.340--Write--Send Data:02-30-31-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-35
+08-22 16:16:56.856--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:16:57.371--TimerStart_T3--T3 START
+08-22 16:16:57.887--Read--Receive Data:10-31
+08-22 16:16:58.403--TimerStart_T6--T6 START
+08-22 16:16:58.918--TimerStop_T6()--T6 Stop = 0
+08-22 16:16:59.434--TimerStop_T3()--T3 Stop = 21
+08-22 16:16:59.949--Write--Send Data:04
+08-22 16:17:00.465--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:02.043--Read--Receive Data:05
+08-22 16:17:02.043--TimerStart_T6--T6 START
+08-22 16:17:02.059--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:02.059--Write--Send Data:10-30
+08-22 16:17:02.059--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:02.059--TimerStart_T3--T3 START
+08-22 16:17:02.074--Read--Receive Data:02-30-38-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-30
+08-22 16:17:02.074--TimerStart_T6--T6 START
+08-22 16:17:02.074--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:02.152--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:02.152--Write--Send Data:10-31
+08-22 16:17:02.168--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:02.168--TimerStart_T3--T3 START
+08-22 16:17:02.168--Read--Receive Data:04
+08-22 16:17:02.168--TimerStart_T6--T6 START
+08-22 16:17:02.184--TimerStop_T6()--T6 Stop = 1
+08-22 16:17:02.184--TimerStop_T3()--T3 Stop = 13
+08-22 16:17:02.184--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:17:02.699--Write--Send Data:05
+08-22 16:17:03.215--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:17:03.730--TimerStart_T3--T3 START
+08-22 16:17:04.246--Read--Receive Data:10-30
+08-22 16:17:04.761--TimerStart_T6--T6 START
+08-22 16:17:05.261--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:05.777--TimerStop_T3()--T3 Stop = 15
+08-22 16:17:06.277--Write--Send Data:02-30-32-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-36
+08-22 16:17:06.793--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:17:07.308--TimerStart_T3--T3 START
+08-22 16:17:07.824--Read--Receive Data:10-31
+08-22 16:17:08.339--TimerStart_T6--T6 START
+08-22 16:17:08.855--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:09.370--TimerStop_T3()--T3 Stop = 13
+08-22 16:17:09.886--Write--Send Data:04
+08-22 16:17:10.386--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:12.073--Read--Receive Data:05
+08-22 16:17:12.073--TimerStart_T6--T6 START
+08-22 16:17:12.073--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:12.089--Write--Send Data:10-30
+08-22 16:17:12.089--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:12.089--TimerStart_T3--T3 START
+08-22 16:17:12.105--Read--Receive Data:02-30-39-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-31
+08-22 16:17:12.105--TimerStart_T6--T6 START
+08-22 16:17:12.105--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:12.183--TimerStop_T3()--T3 Stop = 13
+08-22 16:17:12.183--Write--Send Data:10-31
+08-22 16:17:12.198--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:12.198--TimerStart_T3--T3 START
+08-22 16:17:12.198--Read--Receive Data:04
+08-22 16:17:12.214--TimerStart_T6--T6 START
+08-22 16:17:12.214--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:12.214--TimerStop_T3()--T3 Stop = 12
+08-22 16:17:12.730--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:17:13.245--Write--Send Data:05
+08-22 16:17:13.761--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:17:14.261--TimerStart_T3--T3 START
+08-22 16:17:14.776--Read--Receive Data:10-30
+08-22 16:17:15.292--TimerStart_T6--T6 START
+08-22 16:17:15.808--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:16.323--TimerStop_T3()--T3 Stop = 15
+08-22 16:17:16.839--Write--Send Data:02-30-33-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-37
+08-22 16:17:17.354--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:17:17.870--TimerStart_T3--T3 START
+08-22 16:17:18.386--Read--Receive Data:10-31
+08-22 16:17:18.901--TimerStart_T6--T6 START
+08-22 16:17:19.417--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:19.932--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:20.448--Write--Send Data:04
+08-22 16:17:20.963--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:22.104--Read--Receive Data:05
+08-22 16:17:22.104--TimerStart_T6--T6 START
+08-22 16:17:22.104--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:22.120--Write--Send Data:10-30
+08-22 16:17:22.120--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:22.120--TimerStart_T3--T3 START
+08-22 16:17:22.120--Read--Receive Data:02-31-30-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-39
+08-22 16:17:22.135--TimerStart_T6--T6 START
+08-22 16:17:22.135--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:22.135--TimerStop_T3()--T3 Stop = 13
+08-22 16:17:22.213--Write--Send Data:10-31
+08-22 16:17:22.213--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:22.229--TimerStart_T3--T3 START
+08-22 16:17:22.229--Read--Receive Data:04
+08-22 16:17:22.229--TimerStart_T6--T6 START
+08-22 16:17:22.229--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:22.245--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:22.245--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:17:22.245--Write--Send Data:05
+08-22 16:17:22.760--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:17:23.276--TimerStart_T3--T3 START
+08-22 16:17:23.791--Read--Receive Data:10-30
+08-22 16:17:24.307--TimerStart_T6--T6 START
+08-22 16:17:24.823--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:25.338--TimerStop_T3()--T3 Stop = 16
+08-22 16:17:25.854--Write--Send Data:02-30-34-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-30
+08-22 16:17:26.369--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:17:26.885--TimerStart_T3--T3 START
+08-22 16:17:27.400--Read--Receive Data:10-31
+08-22 16:17:27.916--TimerStart_T6--T6 START
+08-22 16:17:28.432--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:28.947--TimerStop_T3()--T3 Stop = 11
+08-22 16:17:29.463--Write--Send Data:04
+08-22 16:17:29.978--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:32.135--Read--Receive Data:05
+08-22 16:17:32.135--TimerStart_T6--T6 START
+08-22 16:17:32.135--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:32.150--Write--Send Data:10-30
+08-22 16:17:32.150--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:32.150--TimerStart_T3--T3 START
+08-22 16:17:32.166--Read--Receive Data:02-31-31-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-38
+08-22 16:17:32.166--TimerStart_T6--T6 START
+08-22 16:17:32.166--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:32.244--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:32.244--Write--Send Data:10-31
+08-22 16:17:32.259--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:32.259--TimerStart_T3--T3 START
+08-22 16:17:32.259--Read--Receive Data:04
+08-22 16:17:32.275--TimerStart_T6--T6 START
+08-22 16:17:32.275--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:32.275--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:32.791--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:17:33.306--Write--Send Data:05
+08-22 16:17:33.822--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:17:34.337--TimerStart_T3--T3 START
+08-22 16:17:34.853--Read--Receive Data:10-30
+08-22 16:17:35.384--TimerStart_T6--T6 START
+08-22 16:17:35.900--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:36.415--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:36.931--Write--Send Data:02-30-35-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-31
+08-22 16:17:37.447--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:17:37.962--TimerStart_T3--T3 START
+08-22 16:17:38.478--Read--Receive Data:10-31
+08-22 16:17:38.993--TimerStart_T6--T6 START
+08-22 16:17:39.509--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:40.025--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:40.540--Write--Send Data:04
+08-22 16:17:41.056--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:42.165--Read--Receive Data:05
+08-22 16:17:42.165--TimerStart_T6--T6 START
+08-22 16:17:42.165--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:42.181--Write--Send Data:10-30
+08-22 16:17:42.181--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:42.181--TimerStart_T3--T3 START
+08-22 16:17:42.196--Read--Receive Data:02-31-32-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3B
+08-22 16:17:42.196--TimerStart_T6--T6 START
+08-22 16:17:42.196--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:42.274--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:42.274--Write--Send Data:10-31
+08-22 16:17:42.290--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:42.290--TimerStart_T3--T3 START
+08-22 16:17:42.290--Read--Receive Data:04
+08-22 16:17:42.306--TimerStart_T6--T6 START
+08-22 16:17:42.306--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:42.306--TimerStop_T3()--T3 Stop = 12
+08-22 16:17:42.821--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:17:43.337--Write--Send Data:05
+08-22 16:17:43.852--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:17:44.368--TimerStart_T3--T3 START
+08-22 16:17:44.884--Read--Receive Data:10-30
+08-22 16:17:45.399--TimerStart_T6--T6 START
+08-22 16:17:45.915--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:46.430--TimerStop_T3()--T3 Stop = 16
+08-22 16:17:46.946--Write--Send Data:02-30-36-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-32
+08-22 16:17:47.462--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:17:47.977--TimerStart_T3--T3 START
+08-22 16:17:48.383--Read--Receive Data:10-31
+08-22 16:17:48.383--TimerStart_T6--T6 START
+08-22 16:17:48.383--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:48.399--TimerStop_T3()--T3 Stop = 13
+08-22 16:17:48.399--Write--Send Data:04
+08-22 16:17:48.415--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:48.477--Read--Receive Data:05
+08-22 16:17:48.493--TimerStart_T6--T6 START
+08-22 16:17:48.493--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:48.493--Write--Send Data:10-30
+08-22 16:17:48.508--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:48.508--TimerStart_T3--T3 START
+08-22 16:17:48.508--Read--Receive Data:02-31-33-30-31-31-30-30-30-31-32-38-30-31-30-31-30-36-30-30-30-31-30-31-30-36-38-38-38-31-30-34-34-34-32-36-32-30-32-32-30-38
+08-22 16:17:48.508--TimerStart_T6--T6 START
+08-22 16:17:48.508--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:49.024--TimerStart_T3--T3 START
+08-22 16:17:49.336--Read--Receive Data:32-32-31-36-31-34-32-30-32-32-30-38-32-32-31-36-31-37-41-30-30-30-30-35-30-30-30-30-30-35-30-30-30-30-30-30-30-30-30-30-30-30-30-30-30-30-30-35-30-30-30-30-30-35-30-30
+08-22 16:17:49.336--TimerStart_T6--T6 RESET
+08-22 16:17:49.352--TimerStop_T3()--T3 Stop = 13
+08-22 16:17:49.352--TimerStart_T3--T3 START
+08-22 16:17:49.352--Read--Receive Data:30-30-30-30-30-30-30-30-30-30-30-30-30-30-30-30-30-31-39-30-30-30-30-30-30-30-30-30-34-32-30-30-30-30-30-38-30-30-30-30-30-30-03-47
+08-22 16:17:49.368--TimerStart_T6--T6 RESET
+08-22 16:17:49.368--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:49.368--TimerStop_T3()--T3 Stop = 16
+08-22 16:17:49.883--Write--Send Data:10-31
+08-22 16:17:50.399--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:50.914--TimerStart_T3--T3 START
+08-22 16:17:51.430--Read--Receive Data:04
+08-22 16:17:51.946--TimerStart_T6--T6 START
+08-22 16:17:52.196--TimerStop_T6()--T6 Stop = 1
+08-22 16:17:52.196--TimerStop_T3()--T3 Stop = 15
+08-22 16:17:52.196--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:17:52.211--Write--Send Data:05
+08-22 16:17:52.211--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:17:52.211--TimerStart_T3--T3 START
+08-22 16:17:52.227--Read--Receive Data:10-30
+08-22 16:17:52.227--TimerStart_T6--T6 START
+08-22 16:17:52.227--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:52.227--TimerStop_T3()--T3 Stop = 15
+08-22 16:17:52.227--Write--Send Data:02-30-37-30-31-31-30-30-30-30-32-32-30-31-30-32-30-36-30-30-30-32-30-33-30-30-30-30-30-30-30-30-30-30-03-30
+08-22 16:17:52.305--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:17:52.305--TimerStart_T3--T3 START
+08-22 16:17:52.320--Read--Receive Data:10-31
+08-22 16:17:52.320--TimerStart_T6--T6 START
+08-22 16:17:52.320--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:52.320--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:52.336--Write--Send Data:04
+08-22 16:17:52.336--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:17:52.336--Read--Receive Data:05
+08-22 16:17:52.836--TimerStart_T6--T6 START
+08-22 16:17:53.352--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:53.867--Write--Send Data:10-30
+08-22 16:17:54.383--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:17:54.898--TimerStart_T3--T3 START
+08-22 16:17:55.414--Read--Receive Data:02-31-34-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3D
+08-22 16:17:55.930--TimerStart_T6--T6 START
+08-22 16:17:56.445--TimerStop_T6()--T6 Stop = 0
+08-22 16:17:56.961--TimerStop_T3()--T3 Stop = 14
+08-22 16:17:57.476--Write--Send Data:10-31
+08-22 16:17:57.992--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:17:58.508--TimerStart_T3--T3 START
+08-22 16:17:59.023--Read--Receive Data:04
+08-22 16:17:59.539--TimerStart_T6--T6 START
+08-22 16:18:00.054--TimerStop_T6()--T6 Stop = 1
+08-22 16:18:00.554--TimerStop_T3()--T3 Stop = 17
+08-22 16:18:01.070--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:01.585--Write--Send Data:05
+08-22 16:18:02.101--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:02.226--TimerStart_T3--T3 START
+08-22 16:18:02.226--Read--Receive Data:10-30
+08-22 16:18:02.226--TimerStart_T6--T6 START
+08-22 16:18:02.242--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:02.242--TimerStop_T3()--T3 Stop = 15
+08-22 16:18:02.242--Write--Send Data:02-30-38-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-3C
+08-22 16:18:02.257--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:02.257--TimerStart_T3--T3 START
+08-22 16:18:02.257--Read--Receive Data:10-31
+08-22 16:18:02.335--TimerStart_T6--T6 START
+08-22 16:18:02.335--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:02.351--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:02.351--Write--Send Data:04
+08-22 16:18:02.351--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:18:02.367--Read--Receive Data:05
+08-22 16:18:02.367--TimerStart_T6--T6 START
+08-22 16:18:02.367--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:02.882--Write--Send Data:10-30
+08-22 16:18:03.398--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:18:03.913--TimerStart_T3--T3 START
+08-22 16:18:04.429--Read--Receive Data:02-31-35-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3C
+08-22 16:18:04.945--TimerStart_T6--T6 START
+08-22 16:18:05.460--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:05.976--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:06.491--Write--Send Data:10-31
+08-22 16:18:07.007--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:18:07.523--TimerStart_T3--T3 START
+08-22 16:18:08.038--Read--Receive Data:04
+08-22 16:18:08.554--TimerStart_T6--T6 START
+08-22 16:18:09.069--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:09.585--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:10.100--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:10.616--Write--Send Data:05
+08-22 16:18:11.132--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:11.647--TimerStart_T3--T3 START
+08-22 16:18:12.163--Read--Receive Data:10-30
+08-22 16:18:12.257--TimerStart_T6--T6 START
+08-22 16:18:12.257--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:12.257--TimerStop_T3()--T3 Stop = 15
+08-22 16:18:12.272--Write--Send Data:02-30-39-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-3D
+08-22 16:18:12.272--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:12.272--TimerStart_T3--T3 START
+08-22 16:18:12.272--Read--Receive Data:10-31
+08-22 16:18:12.288--TimerStart_T6--T6 START
+08-22 16:18:12.288--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:12.288--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:12.288--Write--Send Data:04
+08-22 16:18:12.366--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:18:12.366--Read--Receive Data:05
+08-22 16:18:12.382--TimerStart_T6--T6 START
+08-22 16:18:12.382--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:12.382--Write--Send Data:10-30
+08-22 16:18:12.397--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:18:12.397--TimerStart_T3--T3 START
+08-22 16:18:12.397--Read--Receive Data:02-31-36-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3F
+08-22 16:18:12.913--TimerStart_T6--T6 START
+08-22 16:18:13.428--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:13.944--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:14.460--Write--Send Data:10-31
+08-22 16:18:14.975--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:18:15.475--TimerStart_T3--T3 START
+08-22 16:18:15.991--Read--Receive Data:04
+08-22 16:18:16.506--TimerStart_T6--T6 START
+08-22 16:18:17.006--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:17.522--TimerStop_T3()--T3 Stop = 11
+08-22 16:18:18.037--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:18.553--Write--Send Data:05
+08-22 16:18:19.069--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:19.584--TimerStart_T3--T3 START
+08-22 16:18:20.100--Read--Receive Data:10-30
+08-22 16:18:20.615--TimerStart_T6--T6 START
+08-22 16:18:21.131--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:21.646--TimerStop_T3()--T3 Stop = 15
+08-22 16:18:22.162--Write--Send Data:02-31-30-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-35
+08-22 16:18:22.287--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:22.287--TimerStart_T3--T3 START
+08-22 16:18:22.287--Read--Receive Data:10-31
+08-22 16:18:22.303--TimerStart_T6--T6 START
+08-22 16:18:22.303--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:22.303--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:22.318--Write--Send Data:04
+08-22 16:18:22.318--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:18:22.318--Read--Receive Data:05
+08-22 16:18:22.318--TimerStart_T6--T6 START
+08-22 16:18:22.318--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:22.396--Write--Send Data:10-30
+08-22 16:18:22.396--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:18:22.412--TimerStart_T3--T3 START
+08-22 16:18:22.412--Read--Receive Data:02-31-37-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3E
+08-22 16:18:22.412--TimerStart_T6--T6 START
+08-22 16:18:22.428--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:22.428--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:22.428--Write--Send Data:10-31
+08-22 16:18:22.928--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:18:23.443--TimerStart_T3--T3 START
+08-22 16:18:23.959--Read--Receive Data:04
+08-22 16:18:24.459--TimerStart_T6--T6 START
+08-22 16:18:24.974--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:25.490--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:26.006--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:26.521--Write--Send Data:05
+08-22 16:18:27.021--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:27.537--TimerStart_T3--T3 START
+08-22 16:18:28.052--Read--Receive Data:10-30
+08-22 16:18:28.568--TimerStart_T6--T6 START
+08-22 16:18:29.083--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:29.599--TimerStop_T3()--T3 Stop = 16
+08-22 16:18:30.115--Write--Send Data:02-31-31-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-34
+08-22 16:18:30.630--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:31.146--TimerStart_T3--T3 START
+08-22 16:18:31.661--Read--Receive Data:10-31
+08-22 16:18:32.177--TimerStart_T6--T6 START
+08-22 16:18:32.318--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:32.318--TimerStop_T3()--T3 Stop = 12
+08-22 16:18:32.318--Write--Send Data:04
+08-22 16:18:32.318--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:18:32.333--Read--Receive Data:05
+08-22 16:18:32.333--TimerStart_T6--T6 START
+08-22 16:18:32.333--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:32.349--Write--Send Data:10-30
+08-22 16:18:32.349--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:18:32.349--TimerStart_T3--T3 START
+08-22 16:18:32.427--Read--Receive Data:02-31-38-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-31
+08-22 16:18:32.427--TimerStart_T6--T6 START
+08-22 16:18:32.443--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:32.443--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:32.443--Write--Send Data:10-31
+08-22 16:18:32.443--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:18:32.458--TimerStart_T3--T3 START
+08-22 16:18:32.458--Read--Receive Data:04
+08-22 16:18:32.458--TimerStart_T6--T6 START
+08-22 16:18:32.458--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:32.458--TimerStop_T3()--T3 Stop = 16
+08-22 16:18:32.458--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:32.958--Write--Send Data:05
+08-22 16:18:33.474--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:33.989--TimerStart_T3--T3 START
+08-22 16:18:34.505--Read--Receive Data:10-30
+08-22 16:18:35.021--TimerStart_T6--T6 START
+08-22 16:18:35.536--TimerStop_T6()--T6 Stop = 1
+08-22 16:18:36.043--TimerStop_T3()--T3 Stop = 16
+08-22 16:18:36.558--Write--Send Data:02-31-32-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-37
+08-22 16:18:37.074--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:37.590--TimerStart_T3--T3 START
+08-22 16:18:38.105--Read--Receive Data:10-31
+08-22 16:18:38.621--TimerStart_T6--T6 START
+08-22 16:18:39.136--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:39.636--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:40.152--Write--Send Data:04
+08-22 16:18:40.667--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:18:42.339--Read--Receive Data:05
+08-22 16:18:42.339--TimerStart_T6--T6 START
+08-22 16:18:42.339--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:42.355--Write--Send Data:10-30
+08-22 16:18:42.355--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:18:42.355--TimerStart_T3--T3 START
+08-22 16:18:42.370--Read--Receive Data:02-31-39-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-30
+08-22 16:18:42.370--TimerStart_T6--T6 START
+08-22 16:18:42.370--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:42.449--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:42.449--Write--Send Data:10-31
+08-22 16:18:42.464--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:18:42.464--TimerStart_T3--T3 START
+08-22 16:18:42.464--Read--Receive Data:04
+08-22 16:18:42.480--TimerStart_T6--T6 START
+08-22 16:18:42.480--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:42.480--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:42.980--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:43.495--Write--Send Data:05
+08-22 16:18:44.011--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:44.527--TimerStart_T3--T3 START
+08-22 16:18:45.042--Read--Receive Data:10-30
+08-22 16:18:45.558--TimerStart_T6--T6 START
+08-22 16:18:46.073--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:46.589--TimerStop_T3()--T3 Stop = 15
+08-22 16:18:47.104--Write--Send Data:02-31-33-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-36
+08-22 16:18:47.620--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:48.136--TimerStart_T3--T3 START
+08-22 16:18:48.651--Read--Receive Data:10-31
+08-22 16:18:49.167--TimerStart_T6--T6 START
+08-22 16:18:49.682--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:50.198--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:50.714--Write--Send Data:04
+08-22 16:18:51.229--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:18:52.370--Read--Receive Data:05
+08-22 16:18:52.370--TimerStart_T6--T6 START
+08-22 16:18:52.370--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:52.385--Write--Send Data:10-30
+08-22 16:18:52.385--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:18:52.385--TimerStart_T3--T3 START
+08-22 16:18:52.401--Read--Receive Data:02-32-30-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3A
+08-22 16:18:52.401--TimerStart_T6--T6 START
+08-22 16:18:52.401--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:52.401--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:52.479--Write--Send Data:10-31
+08-22 16:18:52.479--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:18:52.495--TimerStart_T3--T3 START
+08-22 16:18:52.495--Read--Receive Data:04
+08-22 16:18:52.495--TimerStart_T6--T6 START
+08-22 16:18:52.510--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:52.510--TimerStop_T3()--T3 Stop = 13
+08-22 16:18:52.510--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:18:52.510--Write--Send Data:05
+08-22 16:18:52.510--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:18:53.026--TimerStart_T3--T3 START
+08-22 16:18:53.541--Read--Receive Data:10-30
+08-22 16:18:54.041--TimerStart_T6--T6 START
+08-22 16:18:54.557--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:55.073--TimerStop_T3()--T3 Stop = 16
+08-22 16:18:55.588--Write--Send Data:02-31-34-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-31
+08-22 16:18:56.104--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:18:56.619--TimerStart_T3--T3 START
+08-22 16:18:57.135--Read--Receive Data:10-31
+08-22 16:18:57.651--TimerStart_T6--T6 START
+08-22 16:18:58.166--TimerStop_T6()--T6 Stop = 0
+08-22 16:18:58.682--TimerStop_T3()--T3 Stop = 14
+08-22 16:18:59.197--Write--Send Data:04
+08-22 16:18:59.713--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:19:02.400--Read--Receive Data:05
+08-22 16:19:02.400--TimerStart_T6--T6 START
+08-22 16:19:02.400--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:02.416--Write--Send Data:10-30
+08-22 16:19:02.416--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:19:02.416--TimerStart_T3--T3 START
+08-22 16:19:02.416--Read--Receive Data:02-32-31-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3B
+08-22 16:19:02.431--TimerStart_T6--T6 START
+08-22 16:19:02.431--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:02.431--TimerStop_T3()--T3 Stop = 13
+08-22 16:19:02.510--Write--Send Data:10-31
+08-22 16:19:02.510--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:19:02.525--TimerStart_T3--T3 START
+08-22 16:19:02.525--Read--Receive Data:04
+08-22 16:19:02.525--TimerStart_T6--T6 START
+08-22 16:19:02.541--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:02.541--TimerStop_T3()--T3 Stop = 13
+08-22 16:19:02.541--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:19:03.056--Write--Send Data:05
+08-22 16:19:03.572--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:19:04.088--TimerStart_T3--T3 START
+08-22 16:19:04.603--Read--Receive Data:10-30
+08-22 16:19:05.119--TimerStart_T6--T6 START
+08-22 16:19:05.634--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:06.150--TimerStop_T3()--T3 Stop = 15
+08-22 16:19:06.666--Write--Send Data:02-31-35-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-30
+08-22 16:19:07.181--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:19:07.697--TimerStart_T3--T3 START
+08-22 16:19:08.212--Read--Receive Data:10-31
+08-22 16:19:08.728--TimerStart_T6--T6 START
+08-22 16:19:09.243--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:09.759--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:10.275--Write--Send Data:04
+08-22 16:19:10.790--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:19:12.431--Read--Receive Data:05
+08-22 16:19:12.431--TimerStart_T6--T6 START
+08-22 16:19:12.431--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:12.446--Write--Send Data:10-30
+08-22 16:19:12.446--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:19:12.446--TimerStart_T3--T3 START
+08-22 16:19:12.446--Read--Receive Data:02-32-32-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-38
+08-22 16:19:12.446--TimerStart_T6--T6 START
+08-22 16:19:12.745--TimerStop_T6()--T6 Stop = 1
+08-22 16:19:12.745--TimerStop_T3()--T3 Stop = 13
+08-22 16:19:12.761--Write--Send Data:10-31
+08-22 16:19:12.783--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:19:12.783--TimerStart_T3--T3 START
+08-22 16:19:12.799--Read--Receive Data:04
+08-22 16:19:12.799--TimerStart_T6--T6 START
+08-22 16:19:12.799--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:12.814--TimerStop_T3()--T3 Stop = 304
+08-22 16:19:12.814--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:19:12.814--Write--Send Data:05
+08-22 16:19:13.316--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:19:13.841--TimerStart_T3--T3 START
+08-22 16:19:14.344--Read--Receive Data:10-30
+08-22 16:19:14.864--TimerStart_T6--T6 START
+08-22 16:19:15.384--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:15.884--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:16.391--Write--Send Data:02-31-36-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-33
+08-22 16:19:16.893--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:19:17.395--TimerStart_T3--T3 START
+08-22 16:19:17.897--Read--Receive Data:10-31
+08-22 16:19:18.399--TimerStart_T6--T6 START
+08-22 16:19:18.901--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:19.402--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:19.916--Write--Send Data:04
+08-22 16:19:20.431--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:19:22.462--Read--Receive Data:05
+08-22 16:19:22.462--TimerStart_T6--T6 START
+08-22 16:19:22.462--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:22.478--Write--Send Data:10-30
+08-22 16:19:22.478--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:19:22.478--TimerStart_T3--T3 START
+08-22 16:19:22.493--Read--Receive Data:02-32-33-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-39
+08-22 16:19:22.493--TimerStart_T6--T6 START
+08-22 16:19:22.493--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:22.572--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:22.572--Write--Send Data:10-31
+08-22 16:19:22.587--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:19:22.587--TimerStart_T3--T3 START
+08-22 16:19:22.587--Read--Receive Data:04
+08-22 16:19:22.603--TimerStart_T6--T6 START
+08-22 16:19:23.134--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:23.650--TimerStop_T3()--T3 Stop = 12
+08-22 16:19:24.165--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:19:24.681--Write--Send Data:05
+08-22 16:19:25.196--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:19:25.712--TimerStart_T3--T3 START
+08-22 16:19:26.228--Read--Receive Data:10-30
+08-22 16:19:26.743--TimerStart_T6--T6 START
+08-22 16:19:27.259--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:27.774--TimerStop_T3()--T3 Stop = 15
+08-22 16:19:28.290--Write--Send Data:02-31-37-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-32
+08-22 16:19:28.806--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:19:29.321--TimerStart_T3--T3 START
+08-22 16:19:29.837--Read--Receive Data:10-31
+08-22 16:19:30.352--TimerStart_T6--T6 START
+08-22 16:19:30.868--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:31.384--TimerStop_T3()--T3 Stop = 13
+08-22 16:19:31.899--Write--Send Data:04
+08-22 16:19:32.415--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:19:32.493--Read--Receive Data:05
+08-22 16:19:32.493--TimerStart_T6--T6 START
+08-22 16:19:32.493--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:32.508--Write--Send Data:10-30
+08-22 16:19:32.508--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:19:32.508--TimerStart_T3--T3 START
+08-22 16:19:32.524--Read--Receive Data:02-32-34-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3E
+08-22 16:19:32.524--TimerStart_T6--T6 START
+08-22 16:19:32.524--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:32.602--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:32.602--Write--Send Data:10-31
+08-22 16:19:32.618--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:19:32.618--TimerStart_T3--T3 START
+08-22 16:19:32.618--Read--Receive Data:04
+08-22 16:19:32.618--TimerStart_T6--T6 START
+08-22 16:19:32.633--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:32.633--TimerStop_T3()--T3 Stop = 13
+08-22 16:19:32.633--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:19:33.133--Write--Send Data:05
+08-22 16:19:33.649--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:19:34.165--TimerStart_T3--T3 START
+08-22 16:19:34.680--Read--Receive Data:10-30
+08-22 16:19:35.196--TimerStart_T6--T6 START
+08-22 16:19:35.711--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:36.227--TimerStop_T3()--T3 Stop = 16
+08-22 16:19:36.758--Write--Send Data:02-31-38-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-30-03-3D
+08-22 16:19:37.274--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:19:37.789--TimerStart_T3--T3 START
+08-22 16:19:38.305--Read--Receive Data:10-31
+08-22 16:19:38.820--TimerStart_T6--T6 START
+08-22 16:19:39.336--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:39.836--TimerStop_T3()--T3 Stop = 12
+08-22 16:19:40.352--Write--Send Data:04
+08-22 16:19:40.867--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:19:42.523--Read--Receive Data:05
+08-22 16:19:42.523--TimerStart_T6--T6 START
+08-22 16:19:42.523--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:42.539--Write--Send Data:10-30
+08-22 16:19:42.539--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:19:42.539--TimerStart_T3--T3 START
+08-22 16:19:42.539--Read--Receive Data:02-32-35-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3F
+08-22 16:19:42.555--TimerStart_T6--T6 START
+08-22 16:19:42.555--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:42.555--TimerStop_T3()--T3 Stop = 15
+08-22 16:19:42.555--Write--Send Data:10-31
+08-22 16:19:42.633--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:19:42.633--TimerStart_T3--T3 START
+08-22 16:19:42.648--Read--Receive Data:04
+08-22 16:19:42.648--TimerStart_T6--T6 START
+08-22 16:19:42.648--TimerStop_T6()--T6 Stop = 1
+08-22 16:19:42.648--TimerStop_T3()--T3 Stop = 15
+08-22 16:19:42.648--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:19:42.664--Write--Send Data:05
+08-22 16:19:42.664--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:19:42.664--TimerStart_T3--T3 START
+08-22 16:19:43.180--Read--Receive Data:10-30
+08-22 16:19:43.695--TimerStart_T6--T6 START
+08-22 16:19:44.211--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:44.711--TimerStop_T3()--T3 Stop = 15
+08-22 16:19:45.226--Write--Send Data:02-31-39-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-3D
+08-22 16:19:45.742--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:19:46.257--TimerStart_T3--T3 START
+08-22 16:19:46.773--Read--Receive Data:10-31
+08-22 16:19:47.289--TimerStart_T6--T6 START
+08-22 16:19:47.804--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:48.304--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:48.820--Write--Send Data:04
+08-22 16:19:49.320--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:19:52.554--Read--Receive Data:05
+08-22 16:19:53.460--TimerStart_T6--T6 START
+08-22 16:19:53.976--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:54.491--Write--Send Data:10-30
+08-22 16:19:55.007--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:19:55.507--TimerStart_T3--T3 START
+08-22 16:19:56.022--Read--Receive Data:02-32-36-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3C
+08-22 16:19:56.538--TimerStart_T6--T6 START
+08-22 16:19:57.053--TimerStop_T6()--T6 Stop = 0
+08-22 16:19:57.569--TimerStop_T3()--T3 Stop = 14
+08-22 16:19:58.647--Write--Send Data:10-31
+08-22 16:19:59.147--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:19:59.663--TimerStart_T3--T3 START
+08-22 16:20:00.163--Read--Receive Data:04
+08-22 16:20:00.678--TimerStart_T6--T6 START
+08-22 16:20:01.185--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:01.701--TimerStop_T3()--T3 Stop = 13
+08-22 16:20:02.216--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:02.575--Write--Send Data:05
+08-22 16:20:02.575--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:02.575--TimerStart_T3--T3 START
+08-22 16:20:02.591--Read--Receive Data:10-30
+08-22 16:20:02.591--TimerStart_T6--T6 START
+08-22 16:20:02.591--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:02.591--TimerStop_T3()--T3 Stop = 15
+08-22 16:20:02.607--Write--Send Data:02-32-30-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-37
+08-22 16:20:02.607--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:02.607--TimerStart_T3--T3 START
+08-22 16:20:02.685--Read--Receive Data:10-31
+08-22 16:20:02.685--TimerStart_T6--T6 START
+08-22 16:20:02.700--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:02.700--TimerStop_T3()--T3 Stop = 14
+08-22 16:20:02.700--Write--Send Data:04
+08-22 16:20:02.716--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:20:02.716--Read--Receive Data:05
+08-22 16:20:02.716--TimerStart_T6--T6 START
+08-22 16:20:03.220--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:03.720--Write--Send Data:10-30
+08-22 16:20:04.236--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:20:04.752--TimerStart_T3--T3 START
+08-22 16:20:05.267--Read--Receive Data:02-32-37-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3D
+08-22 16:20:05.783--TimerStart_T6--T6 START
+08-22 16:20:06.299--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:06.806--TimerStop_T3()--T3 Stop = 14
+08-22 16:20:07.314--Write--Send Data:10-31
+08-22 16:20:07.830--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:20:08.343--TimerStart_T3--T3 START
+08-22 16:20:08.850--Read--Receive Data:04
+08-22 16:20:09.350--TimerStart_T6--T6 START
+08-22 16:20:09.866--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:10.381--TimerStop_T3()--T3 Stop = 13
+08-22 16:20:10.883--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:11.399--Write--Send Data:05
+08-22 16:20:11.914--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:12.430--TimerStart_T3--T3 START
+08-22 16:20:12.602--Read--Receive Data:10-30
+08-22 16:20:12.602--TimerStart_T6--T6 START
+08-22 16:20:12.602--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:12.617--TimerStop_T3()--T3 Stop = 15
+08-22 16:20:12.617--Write--Send Data:02-32-31-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-36
+08-22 16:20:12.617--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:12.617--TimerStart_T3--T3 START
+08-22 16:20:12.633--Read--Receive Data:10-31
+08-22 16:20:12.633--TimerStart_T6--T6 START
+08-22 16:20:12.633--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:12.711--TimerStop_T3()--T3 Stop = 12
+08-22 16:20:12.711--Write--Send Data:04
+08-22 16:20:12.727--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:20:12.727--Read--Receive Data:05
+08-22 16:20:12.727--TimerStart_T6--T6 START
+08-22 16:20:12.742--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:12.742--Write--Send Data:10-30
+08-22 16:20:12.742--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:20:12.742--TimerStart_T3--T3 START
+08-22 16:20:13.255--Read--Receive Data:02-32-38-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-32
+08-22 16:20:13.770--TimerStart_T6--T6 START
+08-22 16:20:14.270--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:14.786--TimerStop_T3()--T3 Stop = 14
+08-22 16:20:15.301--Write--Send Data:10-31
+08-22 16:20:15.817--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:20:16.333--TimerStart_T3--T3 START
+08-22 16:20:16.848--Read--Receive Data:04
+08-22 16:20:17.364--TimerStart_T6--T6 START
+08-22 16:20:17.866--TimerStop_T6()--T6 Stop = 1
+08-22 16:20:18.373--TimerStop_T3()--T3 Stop = 14
+08-22 16:20:19.405--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:19.920--Write--Send Data:05
+08-22 16:20:20.421--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:20.922--TimerStart_T3--T3 START
+08-22 16:20:21.424--Read--Receive Data:10-30
+08-22 16:20:21.941--TimerStart_T6--T6 START
+08-22 16:20:22.454--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:22.627--TimerStop_T3()--T3 Stop = 15
+08-22 16:20:22.628--Write--Send Data:02-32-32-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-35
+08-22 16:20:22.629--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:22.636--TimerStart_T3--T3 START
+08-22 16:20:22.638--Read--Receive Data:10-31
+08-22 16:20:22.640--TimerStart_T6--T6 START
+08-22 16:20:22.646--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:22.648--TimerStop_T3()--T3 Stop = 12
+08-22 16:20:22.650--Write--Send Data:04
+08-22 16:20:22.667--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:20:22.668--Read--Receive Data:05
+08-22 16:20:22.674--TimerStart_T6--T6 START
+08-22 16:20:22.675--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:22.675--Write--Send Data:10-30
+08-22 16:20:22.688--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:20:22.689--TimerStart_T3--T3 START
+08-22 16:20:22.690--Read--Receive Data:02-32-39-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-33
+08-22 16:20:23.191--TimerStart_T6--T6 START
+08-22 16:20:23.696--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:24.196--TimerStop_T3()--T3 Stop = 8
+08-22 16:20:24.697--Write--Send Data:10-31
+08-22 16:20:25.197--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:20:25.697--TimerStart_T3--T3 START
+08-22 16:20:26.198--Read--Receive Data:04
+08-22 16:20:26.700--TimerStart_T6--T6 START
+08-22 16:20:27.206--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:27.724--TimerStop_T3()--T3 Stop = 7
+08-22 16:20:28.431--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:28.931--Write--Send Data:05
+08-22 16:20:29.437--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:29.939--TimerStart_T3--T3 START
+08-22 16:20:30.459--Read--Receive Data:10-30
+08-22 16:20:31.051--TimerStart_T6--T6 START
+08-22 16:20:31.552--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:32.053--TimerStop_T3()--T3 Stop = 7
+08-22 16:20:32.554--Write--Send Data:02-32-33-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-34
+08-22 16:20:32.643--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:32.644--TimerStart_T3--T3 START
+08-22 16:20:32.644--Read--Receive Data:10-31
+08-22 16:20:32.645--TimerStart_T6--T6 START
+08-22 16:20:32.646--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:32.670--TimerStop_T3()--T3 Stop = 13
+08-22 16:20:32.673--Write--Send Data:04
+08-22 16:20:32.674--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:20:32.675--Read--Receive Data:05
+08-22 16:20:32.675--TimerStart_T6--T6 START
+08-22 16:20:32.676--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:32.682--Write--Send Data:10-30
+08-22 16:20:32.683--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:20:32.684--TimerStart_T3--T3 START
+08-22 16:20:32.687--Read--Receive Data:02-33-30-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3B
+08-22 16:20:32.705--TimerStart_T6--T6 START
+08-22 16:20:32.706--TimerStop_T6()--T6 Stop = 1
+08-22 16:20:32.707--TimerStop_T3()--T3 Stop = 28
+08-22 16:20:32.713--Write--Send Data:10-31
+08-22 16:20:32.714--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:20:32.714--TimerStart_T3--T3 START
+08-22 16:20:32.715--Read--Receive Data:04
+08-22 16:20:32.727--TimerStart_T6--T6 START
+08-22 16:20:32.727--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:32.728--TimerStop_T3()--T3 Stop = 7
+08-22 16:20:32.728--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:33.229--Write--Send Data:05
+08-22 16:20:33.730--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:34.231--TimerStart_T3--T3 START
+08-22 16:20:34.732--Read--Receive Data:10-30
+08-22 16:20:35.247--TimerStart_T6--T6 START
+08-22 16:20:35.767--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:36.274--TimerStop_T3()--T3 Stop = 7
+08-22 16:20:36.785--Write--Send Data:02-32-34-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-33
+08-22 16:20:37.666--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:38.172--TimerStart_T3--T3 START
+08-22 16:20:38.690--Read--Receive Data:10-31
+08-22 16:20:39.192--TimerStart_T6--T6 START
+08-22 16:20:39.700--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:40.995--TimerStop_T3()--T3 Stop = 12
+08-22 16:20:41.496--Write--Send Data:04
+08-22 16:20:41.998--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:20:42.690--Read--Receive Data:05
+08-22 16:20:42.716--TimerStart_T6--T6 START
+08-22 16:20:42.717--TimerStop_T6()--T6 Stop = 1
+08-22 16:20:42.718--Write--Send Data:10-30
+08-22 16:20:42.727--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:20:42.748--TimerStart_T3--T3 START
+08-22 16:20:42.760--Read--Receive Data:02-33-31-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3A
+08-22 16:20:42.761--TimerStart_T6--T6 START
+08-22 16:20:42.764--TimerStop_T6()--T6 Stop = 4
+08-22 16:20:42.765--TimerStop_T3()--T3 Stop = 37
+08-22 16:20:42.766--Write--Send Data:10-31
+08-22 16:20:42.767--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:20:42.769--TimerStart_T3--T3 START
+08-22 16:20:42.775--Read--Receive Data:04
+08-22 16:20:42.775--TimerStart_T6--T6 START
+08-22 16:20:42.776--TimerStop_T6()--T6 Stop = 1
+08-22 16:20:42.777--TimerStop_T3()--T3 Stop = 9
+08-22 16:20:42.778--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:42.804--Write--Send Data:05
+08-22 16:20:42.811--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:42.812--TimerStart_T3--T3 START
+08-22 16:20:42.818--Read--Receive Data:10-30
+08-22 16:20:42.819--TimerStart_T6--T6 START
+08-22 16:20:42.824--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:42.838--TimerStop_T3()--T3 Stop = 6
+08-22 16:20:42.839--Write--Send Data:02-32-35-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-32
+08-22 16:20:42.844--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:42.845--TimerStart_T3--T3 START
+08-22 16:20:43.346--Read--Receive Data:10-31
+08-22 16:20:43.846--TimerStart_T6--T6 START
+08-22 16:20:44.346--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:45.073--TimerStop_T3()--T3 Stop = 18
+08-22 16:20:45.575--Write--Send Data:04
+08-22 16:20:46.088--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:20:52.768--Read--Receive Data:05
+08-22 16:20:52.770--TimerStart_T6--T6 START
+08-22 16:20:52.771--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:52.778--Write--Send Data:10-30
+08-22 16:20:52.779--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:20:52.786--TimerStart_T3--T3 START
+08-22 16:20:52.787--Read--Receive Data:02-33-32-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30
+08-22 16:20:52.788--TimerStart_T6--T6 START
+08-22 16:20:52.789--TimerStop_T3()--T3 Stop = 7
+08-22 16:20:52.791--TimerStart_T3--T3 START
+08-22 16:20:52.793--Read--Receive Data:03-39
+08-22 16:20:52.802--TimerStart_T6--T6 RESET
+08-22 16:20:52.803--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:52.804--TimerStop_T3()--T3 Stop = 9
+08-22 16:20:52.805--Write--Send Data:10-31
+08-22 16:20:52.806--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:20:52.823--TimerStart_T3--T3 START
+08-22 16:20:52.825--Read--Receive Data:04
+08-22 16:20:52.825--TimerStart_T6--T6 START
+08-22 16:20:52.831--TimerStop_T6()--T6 Stop = 1
+08-22 16:20:52.832--TimerStop_T3()--T3 Stop = 11
+08-22 16:20:52.832--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:20:52.844--Write--Send Data:05
+08-22 16:20:52.845--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:20:52.845--TimerStart_T3--T3 START
+08-22 16:20:53.346--Read--Receive Data:10-30
+08-22 16:20:53.849--TimerStart_T6--T6 START
+08-22 16:20:54.349--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:54.864--TimerStop_T3()--T3 Stop = 6
+08-22 16:20:55.364--Write--Send Data:02-32-36-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-31
+08-22 16:20:55.880--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:20:56.395--TimerStart_T3--T3 START
+08-22 16:20:56.911--Read--Receive Data:10-31
+08-22 16:20:57.426--TimerStart_T6--T6 START
+08-22 16:20:57.942--TimerStop_T6()--T6 Stop = 0
+08-22 16:20:58.458--TimerStop_T3()--T3 Stop = 12
+08-22 16:20:58.973--Write--Send Data:04
+08-22 16:20:59.489--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:21:02.801--Read--Receive Data:05
+08-22 16:21:02.801--TimerStart_T6--T6 START
+08-22 16:21:02.801--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:02.817--Write--Send Data:10-30
+08-22 16:21:02.817--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:21:02.817--TimerStart_T3--T3 START
+08-22 16:21:02.817--Read--Receive Data:02-33-33-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-38
+08-22 16:21:02.817--TimerStart_T6--T6 START
+08-22 16:21:02.832--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:02.832--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:02.832--Write--Send Data:10-31
+08-22 16:21:02.911--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:21:02.911--TimerStart_T3--T3 START
+08-22 16:21:02.926--Read--Receive Data:04
+08-22 16:21:02.926--TimerStart_T6--T6 START
+08-22 16:21:02.926--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:02.926--TimerStop_T3()--T3 Stop = 12
+08-22 16:21:02.942--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:21:02.942--Write--Send Data:05
+08-22 16:21:02.942--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:21:02.942--TimerStart_T3--T3 START
+08-22 16:21:02.942--Read--Receive Data:10-30
+08-22 16:21:02.942--TimerStart_T6--T6 START
+08-22 16:21:03.457--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:03.973--TimerStop_T3()--T3 Stop = 16
+08-22 16:21:04.489--Write--Send Data:02-32-37-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-30
+08-22 16:21:05.004--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:21:05.520--TimerStart_T3--T3 START
+08-22 16:21:06.035--Read--Receive Data:10-31
+08-22 16:21:06.551--TimerStart_T6--T6 START
+08-22 16:21:07.067--TimerStop_T6()--T6 Stop = 3
+08-22 16:21:07.582--TimerStop_T3()--T3 Stop = 18
+08-22 16:21:08.098--Write--Send Data:04
+08-22 16:21:08.613--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:21:12.832--Read--Receive Data:05
+08-22 16:21:12.832--TimerStart_T6--T6 START
+08-22 16:21:12.832--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:12.847--Write--Send Data:10-30
+08-22 16:21:12.847--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:21:12.847--TimerStart_T3--T3 START
+08-22 16:21:12.863--Read--Receive Data:02-33-34-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3F
+08-22 16:21:12.863--TimerStart_T6--T6 START
+08-22 16:21:12.863--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:12.941--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:12.941--Write--Send Data:10-31
+08-22 16:21:12.957--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:21:12.957--TimerStart_T3--T3 START
+08-22 16:21:12.957--Read--Receive Data:04
+08-22 16:21:12.957--TimerStart_T6--T6 START
+08-22 16:21:12.972--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:12.972--TimerStop_T3()--T3 Stop = 12
+08-22 16:21:12.972--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:21:13.488--Write--Send Data:05
+08-22 16:21:14.004--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:21:14.519--TimerStart_T3--T3 START
+08-22 16:21:15.035--Read--Receive Data:10-30
+08-22 16:21:15.550--TimerStart_T6--T6 START
+08-22 16:21:16.050--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:16.566--TimerStop_T3()--T3 Stop = 16
+08-22 16:21:17.081--Write--Send Data:02-32-38-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-3F
+08-22 16:21:17.597--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:21:18.097--TimerStart_T3--T3 START
+08-22 16:21:18.613--Read--Receive Data:10-31
+08-22 16:21:19.128--TimerStart_T6--T6 START
+08-22 16:21:19.644--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:20.159--TimerStop_T3()--T3 Stop = 12
+08-22 16:21:20.675--Write--Send Data:04
+08-22 16:21:21.190--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:21:22.862--Read--Receive Data:05
+08-22 16:21:22.862--TimerStart_T6--T6 START
+08-22 16:21:22.862--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:22.878--Write--Send Data:10-30
+08-22 16:21:22.878--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:21:22.878--TimerStart_T3--T3 START
+08-22 16:21:22.878--Read--Receive Data:02-33-35-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3E
+08-22 16:21:22.878--TimerStart_T6--T6 START
+08-22 16:21:22.893--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:22.893--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:22.893--Write--Send Data:10-31
+08-22 16:21:22.893--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:21:22.893--TimerStart_T3--T3 START
+08-22 16:21:22.972--Read--Receive Data:04
+08-22 16:21:22.972--TimerStart_T6--T6 START
+08-22 16:21:22.987--TimerStop_T6()--T6 Stop = 1
+08-22 16:21:22.987--TimerStop_T3()--T3 Stop = 15
+08-22 16:21:22.987--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:21:23.003--Write--Send Data:05
+08-22 16:21:23.003--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:21:23.003--TimerStart_T3--T3 START
+08-22 16:21:23.503--Read--Receive Data:10-30
+08-22 16:21:24.018--TimerStart_T6--T6 START
+08-22 16:21:24.534--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:25.034--TimerStop_T3()--T3 Stop = 16
+08-22 16:21:25.550--Write--Send Data:02-32-39-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-3E
+08-22 16:21:26.065--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:21:26.581--TimerStart_T3--T3 START
+08-22 16:21:27.096--Read--Receive Data:10-31
+08-22 16:21:27.596--TimerStart_T6--T6 START
+08-22 16:21:28.112--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:28.627--TimerStop_T3()--T3 Stop = 13
+08-22 16:21:29.127--Write--Send Data:04
+08-22 16:21:29.643--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:21:32.893--Read--Receive Data:05
+08-22 16:21:32.893--TimerStart_T6--T6 START
+08-22 16:21:32.893--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:32.908--Write--Send Data:10-30
+08-22 16:21:32.908--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:21:32.908--TimerStart_T3--T3 START
+08-22 16:21:32.908--Read--Receive Data:02-33-36-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3D
+08-22 16:21:32.924--TimerStart_T6--T6 START
+08-22 16:21:32.924--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:32.924--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:32.924--Write--Send Data:10-31
+08-22 16:21:33.002--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:21:33.002--TimerStart_T3--T3 START
+08-22 16:21:33.018--Read--Receive Data:04
+08-22 16:21:33.018--TimerStart_T6--T6 START
+08-22 16:21:33.018--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:33.018--TimerStop_T3()--T3 Stop = 12
+08-22 16:21:33.033--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:21:33.033--Write--Send Data:05
+08-22 16:21:33.033--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:21:33.533--TimerStart_T3--T3 START
+08-22 16:21:34.049--Read--Receive Data:10-30
+08-22 16:21:34.564--TimerStart_T6--T6 START
+08-22 16:21:35.064--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:35.580--TimerStop_T3()--T3 Stop = 15
+08-22 16:21:36.096--Write--Send Data:02-33-30-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-36
+08-22 16:21:36.611--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:21:37.127--TimerStart_T3--T3 START
+08-22 16:21:37.642--Read--Receive Data:10-31
+08-22 16:21:38.158--TimerStart_T6--T6 START
+08-22 16:21:38.674--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:39.189--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:39.705--Write--Send Data:04
+08-22 16:21:40.220--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:21:42.923--Read--Receive Data:05
+08-22 16:21:42.923--TimerStart_T6--T6 START
+08-22 16:21:42.923--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:42.939--Write--Send Data:10-30
+08-22 16:21:42.939--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:21:42.939--TimerStart_T3--T3 START
+08-22 16:21:42.954--Read--Receive Data:02-33-37-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3C
+08-22 16:21:42.954--TimerStart_T6--T6 START
+08-22 16:21:42.954--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:43.033--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:43.033--Write--Send Data:10-31
+08-22 16:21:43.048--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:21:43.048--TimerStart_T3--T3 START
+08-22 16:21:43.048--Read--Receive Data:04
+08-22 16:21:43.064--TimerStart_T6--T6 START
+08-22 16:21:43.064--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:43.064--TimerStop_T3()--T3 Stop = 12
+08-22 16:21:43.579--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:21:44.095--Write--Send Data:05
+08-22 16:21:44.611--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:21:45.126--TimerStart_T3--T3 START
+08-22 16:21:45.642--Read--Receive Data:10-30
+08-22 16:21:46.142--TimerStart_T6--T6 START
+08-22 16:21:46.657--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:47.173--TimerStop_T3()--T3 Stop = 15
+08-22 16:21:47.689--Write--Send Data:02-33-31-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-37
+08-22 16:21:48.204--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:21:48.720--TimerStart_T3--T3 START
+08-22 16:21:49.235--Read--Receive Data:10-31
+08-22 16:21:49.751--TimerStart_T6--T6 START
+08-22 16:21:50.266--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:50.782--TimerStop_T3()--T3 Stop = 13
+08-22 16:21:51.298--Write--Send Data:04
+08-22 16:21:51.813--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:21:52.954--Read--Receive Data:05
+08-22 16:21:52.954--TimerStart_T6--T6 START
+08-22 16:21:52.954--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:52.969--Write--Send Data:10-30
+08-22 16:21:52.969--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:21:52.969--TimerStart_T3--T3 START
+08-22 16:21:52.969--Read--Receive Data:02-33-38-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-33
+08-22 16:21:52.985--TimerStart_T6--T6 START
+08-22 16:21:52.985--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:52.985--TimerStop_T3()--T3 Stop = 13
+08-22 16:21:52.985--Write--Send Data:10-31
+08-22 16:21:53.063--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:21:53.063--TimerStart_T3--T3 START
+08-22 16:21:53.079--Read--Receive Data:04
+08-22 16:21:53.079--TimerStart_T6--T6 START
+08-22 16:21:53.079--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:53.094--TimerStop_T3()--T3 Stop = 14
+08-22 16:21:53.094--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:21:53.094--Write--Send Data:05
+08-22 16:21:53.610--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:21:54.126--TimerStart_T3--T3 START
+08-22 16:21:54.641--Read--Receive Data:10-30
+08-22 16:21:55.157--TimerStart_T6--T6 START
+08-22 16:21:55.672--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:56.188--TimerStop_T3()--T3 Stop = 15
+08-22 16:21:56.704--Write--Send Data:02-33-32-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-34
+08-22 16:21:57.219--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:21:57.735--TimerStart_T3--T3 START
+08-22 16:21:58.250--Read--Receive Data:10-31
+08-22 16:21:58.766--TimerStart_T6--T6 START
+08-22 16:21:59.281--TimerStop_T6()--T6 Stop = 0
+08-22 16:21:59.797--TimerStop_T3()--T3 Stop = 14
+08-22 16:22:00.313--Write--Send Data:04
+08-22 16:22:00.813--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:22:02.984--Read--Receive Data:05
+08-22 16:22:02.984--TimerStart_T6--T6 START
+08-22 16:22:02.984--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:03.000--Write--Send Data:10-30
+08-22 16:22:03.000--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:22:03.000--TimerStart_T3--T3 START
+08-22 16:22:03.000--Read--Receive Data:02-33-39-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-32
+08-22 16:22:03.016--TimerStart_T6--T6 START
+08-22 16:22:03.016--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:03.016--TimerStop_T3()--T3 Stop = 14
+08-22 16:22:03.094--Write--Send Data:10-31
+08-22 16:22:03.094--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:22:03.109--TimerStart_T3--T3 START
+08-22 16:22:03.109--Read--Receive Data:04
+08-22 16:22:03.109--TimerStart_T6--T6 START
+08-22 16:22:03.125--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:03.125--TimerStop_T3()--T3 Stop = 12
+08-22 16:22:03.125--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:22:03.625--Write--Send Data:05
+08-22 16:22:04.141--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:22:04.656--TimerStart_T3--T3 START
+08-22 16:22:05.172--Read--Receive Data:10-30
+08-22 16:22:05.687--TimerStart_T6--T6 START
+08-22 16:22:06.203--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:06.719--TimerStop_T3()--T3 Stop = 15
+08-22 16:22:07.234--Write--Send Data:02-33-33-30-31-31-30-30-30-30-31-32-30-31-30-34-30-31-30-30-30-30-30-31-03-35
+08-22 16:22:07.750--StartTask--Status:-Current=Status_4-New=Status_5
+08-22 16:22:08.265--TimerStart_T3--T3 START
+08-22 16:22:08.781--Read--Receive Data:10-31
+08-22 16:22:09.281--TimerStart_T6--T6 START
+08-22 16:22:09.797--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:10.312--TimerStop_T3()--T3 Stop = 13
+08-22 16:22:10.828--Write--Send Data:04
+08-22 16:22:11.343--StartTask--Status:-Current=Status_5-New=Status_1
+08-22 16:22:13.015--Read--Receive Data:05
+08-22 16:22:13.015--TimerStart_T6--T6 START
+08-22 16:22:13.015--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:13.031--Write--Send Data:10-30
+08-22 16:22:13.031--StartTask--Status:-Current=Status_1-New=Status_2
+08-22 16:22:13.031--TimerStart_T3--T3 START
+08-22 16:22:13.046--Read--Receive Data:02-34-30-30-31-31-30-30-30-30-30-38-30-31-30-33-30-31-30-30-03-3C
+08-22 16:22:13.046--TimerStart_T6--T6 START
+08-22 16:22:13.046--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:13.124--TimerStop_T3()--T3 Stop = 14
+08-22 16:22:13.124--Write--Send Data:10-31
+08-22 16:22:13.124--StartTask--Status:-Current=Status_2-New=Status_3
+08-22 16:22:13.140--TimerStart_T3--T3 START
+08-22 16:22:13.140--Read--Receive Data:04
+08-22 16:22:13.140--TimerStart_T6--T6 START
+08-22 16:22:13.140--TimerStop_T6()--T6 Stop = 0
+08-22 16:22:13.156--TimerStop_T3()--T3 Stop = 14
+08-22 16:22:13.156--StartTask--Status:-Current=Status_3-New=Status_1
+08-22 16:22:13.156--Write--Send Data:05
+08-22 16:22:13.671--StartTask--Status:-Current=Status_1-New=Status_4
+08-22 16:22:14.187--TimerStart_T3--T3 START
+08-22 16:22:14.702--Read--Receive Data:10-30
+08-22 16:22:15.218--TimerStart_T6--T6 START
+08-22 16:22:15.734--TimerStop_T6()--T6 Stop = 0
